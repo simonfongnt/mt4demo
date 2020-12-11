@@ -33,7 +33,7 @@ python mtgateway.py
 # Windows
 in order to run it as executable, building with pyinstaller in Windows is necessary.
 ## Build (Pyinstaller)
-make sure to update this path to the project folder:
+update mtgateway.spec and make sure to update this path to the project folder:
 
 ```
 pathex=['C:\\path\\to\\mtgateway'],
