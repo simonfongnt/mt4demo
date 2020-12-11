@@ -3,7 +3,7 @@
 block_cipher = None
 
 
-a = Analysis(['client.py'],
+a = Analysis(['mtgateway.py'],
              pathex=['C:\\path\\to\\mtgateway'],
              binaries=[],
              datas=[('./library/', './library/')],
@@ -23,7 +23,7 @@ exe = EXE(pyz,
           a.zipfiles,
           a.datas,
           [],
-          name='client',
+          name='mtgateway',
           debug=False,
           bootloader_ignore_signals=False,
           strip=False,
