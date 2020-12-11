@@ -1,0 +1,11 @@
+{
+	"server":{
+		"host": 				"",
+		"port": 				12345
+	},
+	"telegram":{
+		"token": 				"99999999:asl;kdfjk;lsadjf;lkashdflajkdf",
+		"botname": 				"@THEBOTNAME",
+		"authgroup": 			-
+	}
+}
